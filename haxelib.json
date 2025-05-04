@@ -1,0 +1,20 @@
+{
+    "name": "subtract",
+    "url": "https://github.com/Vortex2Oblivion/subtract",
+    "license": "MIT",
+    "tags": [
+      "minus",
+      "math",
+      "subtraction",
+      "skibidi"   
+    ],
+    "description": "A simple and easy-to-use library to calculate the difference of two numbers",
+    "version": "1.0.0",
+    "releasenote": "First version of subtract!",
+    "contributors": [
+      "Vortex"
+    ],
+    "dependencies": {
+      "add": ""
+    }
+  }
