@@ -2,7 +2,7 @@
 
 ![Subtract](logo.png)
 
-An easy-to-use library for calculating the sum of two numbers!
+An easy-to-use library for calculating the difference of two numbers!
 
 ```hx
 package;
